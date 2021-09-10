@@ -4,7 +4,6 @@
 - 🔭 Check me out on Linkedin: https://www.linkedin.com/in/sam-ayo or twitter: https://www.twitter.com/officialsamayo
 - 🌱 I’m currently learning mathematics in Deep Learning
 - 👯 I’m looking to collaborate on NLP projects and Computer Vision
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything AI, or python development. I'm a beast
 - 📫 How to reach me: ayosamuel92@gmail.com or hunt me on linkedin 😄
 - 😄 Pronouns: Sam Ayo, nothing more
