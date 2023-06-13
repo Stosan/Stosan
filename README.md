@@ -2,7 +2,7 @@
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)
-![twitter](<a href="https://twitter.com/officialsamayo"><img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white"/></a>)
+<a href="https://twitter.com/officialsamayo"><img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 ### Hi there,
 
