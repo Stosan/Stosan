@@ -28,6 +28,8 @@
 
 ## See my GitHub Trophies 🏆 
 ![](https://github-profile-trophy.vercel.app/?username=Stosan&layout=compact&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=chilliesdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chilliesdev&theme=dark&hide_border=false)<br/>
 
 ## Projects I'm currently working on
 - AI for creating super resolution images using ESRGAN
