@@ -4,7 +4,7 @@
 <a href="https://medium.com/@officialsamayo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <a href="https://twitter.com/officialsamayo"><img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
-### Hi 👋, I’m Sam Ayo. A Machine learning engineer & Software engineer
+### Hi 👋, I’m Sam Ayo. An AI/Machine learning engineer & Software engineer
 - 🔭 Check me out on the socials above
 - 🏆 🖼️ I'm Microsoft AI engineering Certified
 - 🏆 🖼️ I'm currenntly pursing my AI engineering Certification with Artficial Intelligence Board of America, Artiba.
