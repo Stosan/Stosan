@@ -7,7 +7,7 @@
 ### Hi 👋, I’m Sam Ayo. An AI/Machine learning engineer & Software engineer
 - 🔭 Check me out on the socials above
 - 🏆 🖼️ I'm Microsoft AI engineering Certified
-- 🏆 🖼️ I'm currently pursing my AI engineering Certification with Artficial Intelligence Board of America, Artiba.
+- 🏆 🖼️ I'm Artficial Intelligence Board of America (Artiba) certified.
 - 🌱 I’m currently learning mathematics in Deep Learning
 - 👯 I’m looking to collaborate on NLP projects and Computer Vision and Causal Inference
 - 👯 I’m looking to collaborate on research papers in any field
